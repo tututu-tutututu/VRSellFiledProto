@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -530159753, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 3
+  lastUpdatedAtString: 2021-05-14T21:01:57.969+09:00
+  initializedAtString: 2021-05-14T20:44:51.985+09:00
+  log:
+  - commitID: 4f76717d6dfda30d3f98fc74f770692b1e9069ee
+    mergeA: 
+    mergeB: 
+    authorName: tututu-tutututu
+    authorEmail: 59168837+tututu-tutututu@users.noreply.github.com
+    commitEmail: noreply@github.com
+    commitName: GitHub
+    summary: Add files via upload
+    description: 
+    timeString: 2021-05-14T20:30:19.000+09:00
+    commitTimeString: 2021-05-14T20:30:19.000+09:00
+    changes:
+    - path: "\u76EE\u5370\u30C6\u30AD\u30B9\u30C8.txt"
+      fullPath: "D:\\VRSellFieldProto\\\u76EE\u5370\u30C6\u30AD\u30B9\u30C8.txt"
+      projectPath: "\u76EE\u5370\u30C6\u30AD\u30B9\u30C8.txt"
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
