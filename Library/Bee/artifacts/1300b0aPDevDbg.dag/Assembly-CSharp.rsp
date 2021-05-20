@@ -453,6 +453,7 @@
 "Assets/Oculus/Spatializer/scripts/ONSPPropagationSettings.cs"
 "Assets/Oculus/Spatializer/scripts/ONSPSettings.cs"
 "Assets/Oculus/Spatializer/scripts/ONSPVersion.cs"
+"Assets/Original/WarpPoint.cs"
 -langversion:8.0
 
 /deterministic

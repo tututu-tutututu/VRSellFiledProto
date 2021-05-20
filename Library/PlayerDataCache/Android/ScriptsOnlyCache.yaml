@@ -1,5 +1,23 @@
 ScriptsOnlyBuild:
   usedScripts:
+    Assembly-CSharp.dll:
+    - LocomotionController
+    - LocomotionTeleport
+    - SimpleCapsuleWithStickMovement
+    - TeleportAimVisualLaser
+    - TeleportInputHandlerTouch
+    - TeleportTargetHandlerPhysical
+    - WarpPoint
+    GitHub.Unity.45.dll:
+    - GitHub.Unity.ApplicationCache
+    - GitHub.Unity.BranchesCache
+    - GitHub.Unity.EnvironmentCache
+    - GitHub.Unity.GitAheadBehindCache
+    - GitHub.Unity.GitLocksCache
+    - GitHub.Unity.GitLogCache
+    - GitHub.Unity.GitStatusCache
+    - GitHub.Unity.RepositoryInfoCache
+    - GitHub.Unity.Window
     Oculus.VR.Editor.dll:
     - Assets.Oculus.VR.Editor.OVRPlatformToolSettings
     - OVRConfig
@@ -69,35 +87,55 @@ ScriptsOnlyBuild:
       Script: {instanceID: 0}
     - Class: 95
       Script: {instanceID: 0}
+    - Class: 102
+      Script: {instanceID: 0}
     - Class: 104
       Script: {instanceID: 0}
     - Class: 108
       Script: {instanceID: 0}
     - Class: 114
-      Script: {instanceID: 1940}
+      Script: {instanceID: 1976}
     - Class: 114
-      Script: {instanceID: 2120}
+      Script: {instanceID: 2156}
     - Class: 114
-      Script: {instanceID: 2172}
+      Script: {instanceID: 2208}
     - Class: 114
-      Script: {instanceID: 3630}
+      Script: {instanceID: 2602}
     - Class: 114
-      Script: {instanceID: 3934}
+      Script: {instanceID: 2810}
     - Class: 114
-      Script: {instanceID: 4176}
+      Script: {instanceID: 3668}
     - Class: 114
-      Script: {instanceID: 4190}
+      Script: {instanceID: 3972}
     - Class: 114
-      Script: {instanceID: 5224}
+      Script: {instanceID: 4060}
     - Class: 114
-      Script: {instanceID: 5300}
+      Script: {instanceID: 4070}
     - Class: 114
-      Script: {instanceID: 7526}
+      Script: {instanceID: 4214}
     - Class: 114
-      Script: {instanceID: 7966}
+      Script: {instanceID: 4228}
+    - Class: 114
+      Script: {instanceID: 5270}
+    - Class: 114
+      Script: {instanceID: 5346}
+    - Class: 114
+      Script: {instanceID: 7026}
+    - Class: 114
+      Script: {instanceID: 7566}
+    - Class: 114
+      Script: {instanceID: 7678}
+    - Class: 114
+      Script: {instanceID: 8122}
+    - Class: 114
+      Script: {instanceID: 29896}
     - Class: 115
       Script: {instanceID: 0}
+    - Class: 128
+      Script: {instanceID: 0}
     - Class: 135
+      Script: {instanceID: 0}
+    - Class: 136
       Script: {instanceID: 0}
     - Class: 137
       Script: {instanceID: 0}
@@ -2108,6 +2146,12 @@ ScriptsOnlyBuild:
     assemblyName: Assembly-CSharp.dll
     namespaceName: OculusSampleFramework
     className: TrackSegment
+  - hash:
+      serializedVersion: 2
+      Hash: 823e39bc3276748c401b3dd6149d14d7
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: WarpPoint
   platform: 13
   scenePathNames:
   - Assets/Scenes/fieldbase.unity

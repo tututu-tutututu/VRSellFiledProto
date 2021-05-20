@@ -13,13 +13,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 2
-  lastUpdatedAtString: 2021-05-14T21:01:04.856+09:00
-  initializedAtString: 2021-05-14T20:44:51.974+09:00
-  localBranches:
-  - name: main
-    tracking: VRSellFieldProto/main
+  lastUpdatedAtString: 2021-05-20T20:21:40.175+09:00
+  initializedAtString: 2021-05-20T13:11:32.791+09:00
+  localBranches: []
   remoteBranches:
-  - name: VRSellFieldProto/main
+  - name: VRSellFieldProto/develop
     tracking: '[None]'
   remotes:
   - name: VRSellFieldProto
@@ -30,23 +28,17 @@ MonoBehaviour:
     function: 0
     token: 
   localConfigBranches:
-    keys:
-    - main
-    values:
-    - name: main
-      remote:
-        name: VRSellFieldProto
-        url: https://github.com/tututu-tutututu/VRSellFiledProto.git
-      trackingBranch: main
+    keys: []
+    values: []
   remoteConfigBranches:
     keys:
     - VRSellFieldProto
     subKeys:
     - Values:
-      - main
+      - develop
     subKeyValues:
     - Values:
-      - name: main
+      - name: develop
         remote:
           name: VRSellFieldProto
           url: https://github.com/tututu-tutututu/VRSellFiledProto.git
